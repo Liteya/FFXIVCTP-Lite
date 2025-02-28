@@ -1,0 +1,1 @@
+# FFXIVChnTextPatch-Lite
