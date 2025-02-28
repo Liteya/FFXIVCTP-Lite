@@ -4,12 +4,14 @@
 
 ## 額外追加說明
 * TextCommandParam 指令副選項 為選擇性要件如需使用請自行放入rawexd內
-* Cactbot 使用者 在翻譯漢化階段 請取消 Action(部分小細節的判定) Bnpcname(影響基本運作) Placename(影響計時器) 的漢化處理
+* Cactbot 使用者 在翻譯漢化階段 請取消下列三個的漢化處理
+  Action(部分小細節的判定)
+  Bnpcname(影響基本運作)
+  Placename(影響計時器) 
+
+  
 ![alt text](image.png)
 * 高難專用的會另外放在別的地方處理
-
-
-
 
 ## 重要提醒
 * 使用漢化包時，請不要展示道具，他人看到的道具名稱會是「中文」。
