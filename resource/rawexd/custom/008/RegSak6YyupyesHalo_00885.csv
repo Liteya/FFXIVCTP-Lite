@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_000,哎呀，難道你對農地感興趣嗎？<hex:02100103>有什麼想知道的就問吧，我都可以告訴你。
+1,TEXT_REGSAK6YYUPYESHALO_00885_Q1_000_000,想了解什麼？
+2,TEXT_REGSAK6YYUPYESHALO_00885_A1_000_001,你是做什麼的？
+3,TEXT_REGSAK6YYUPYESHALO_00885_A1_000_002,這裡是什麼地方？
+4,TEXT_REGSAK6YYUPYESHALO_00885_A1_000_003,取消
+5,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_010,呵呵，比起農地，你對我更感興趣嗎？<hex:02100103>我叫堯皮喀那，如你所見是一名眾陽之民。
+6,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_011,啊，不過年齡是不會告訴你的，所以就別問了。<hex:02100103>興趣是擺弄土地，種出新鮮蔬菜製成美味菜餚，<hex:02100103>特技是擅長分辨蔬菜的新鮮度。
+7,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_020,這裡是對於邊郊鎮的生活來說不可或缺的尤派光暈農地。<hex:02100103>大家在農地管理者夏勞奇的帶領下，<hex:02100103>培育著各式各樣的蔬菜。
+8,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_021,在藉助著雷轉質技術的同時，<hex:02100103>享受著大地的恩惠，實現與大地共生……<hex:02100103>可以說，這裡是支持著我們內心所想的重要設施。
+9,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_022,雖然塔裡也在生產蔬菜，<hex:02100103>但是跟圖拉爾生產的品種不同。<hex:02100103>這便是用泥土養育圖拉爾蔬菜的這片農地的存在意義。
+10,TEXT_REGSAK6YYUPYESHALO_00885_YYOPYICANA_000_023,不過前段時間在塔裡不是發生了很嚴重的事情嗎？<hex:02100103>雖然這次有驚無險，但為了以後出事時能及時提供糧食支援，<hex:02100103>我認為還是重新審視一下收穫量和農地的存在方式比較好。

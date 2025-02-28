@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_000,哎呀，你身上散發著一股異國人士的氣息啊……<hex:02100103>來美花黑澤恩是要找什麼東西嗎？<hex:02100103>希望你能在這裡找到你想要的東西。
+1,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_001,草木被風吹動的聲音就如同在通知我們有危險一般。<hex:02100103>在這美花黑澤恩，大家的警戒意識都很強。
+2,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_002,停留在空氣中的惡意似乎已經消散了。<hex:02100103>如今森林中的草木晃動的節奏都很平穩。<hex:02100103>美花黑澤恩終於又恢復了和平。
+3,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_003,這個國家似乎也迎來了新的風貌啊。<hex:02100103>對於生活在美花黑澤恩的我們來說，這會為我們帶來什麼……<hex:02100103>村裡的大家對此也都非常關心。
+4,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_Q1_000_000,想了解什麼？
+5,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_001,你是做什麼的？
+6,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_002,這裡是什麼地方？
+7,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_003,取消
+8,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_004,我叫捷皮，是這個村落的斥候。<hex:02100103>通過傾聽自然的聲音，感知到存在惡意的風，<hex:02100103>從而通知身為家人和同伴、同時也是祖靈的犎牛有危險。
+9,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_005,祖靈是負責引導我們的重要存在。<hex:02100103>每個家族和村落視為祖靈的動物各有不同，<hex:02100103>我們尊崇的是犎牛，一直小心翼翼地守護著。
+10,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_006,這裡是美花黑澤恩。<hex:02100103>在通用語中的意思是「祖靈食草之地」，<hex:02100103>是我們與自己的祖靈犎牛共同生活的村落。
+11,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_007,雖說是村落，但也不是定居在了這裡。<hex:02100103>我們會根據犎牛的食糧——草的四季生長位置的變化，<hex:02100103>來進行適當的遷移。
+12,TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_008,之所以不建造房屋只是搭帳篷，也是這個原因。<hex:02100103>不會扎根於任何地方，有我們在的地方，<hex:02100103>就是美花黑澤恩。

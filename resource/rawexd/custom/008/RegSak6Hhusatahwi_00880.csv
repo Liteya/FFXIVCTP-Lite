@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000,喲，那邊的<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>。<hex:02100103>你是旅行者吧？要不要我來跟你講講鎮子上的事啊？
+1,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001,雖然天上飛的那些大箱子令人在意，<hex:02100103>不過目前它們好像也沒什麼動作……<hex:02100103>不論如何，如果你想了解鎮子上的事可以問我。
+2,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_002,哎呀，天上的那些奇怪東西終於消失了！<hex:02100103>鎮上的人們也總算安下心，看著輕鬆多了。<hex:02100103>話說回來<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>你是想打聽什麼事嗎？
+3,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_003,我現在看那邊的穹頂也不會驚訝了。<hex:02100103>裡面的人要是過來了，說不定還可以一起喝杯酒呢。<hex:02100103><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>你覺得呢？
+4,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_Q1_000_000,想了解什麼？
+5,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_001,你是做什麼的？
+6,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_002,這裡是什麼地方？
+7,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_003,取消
+8,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_004,我叫胡帖皮，是這裡的嚮導。<hex:02100103>這裡常有從各地來的旅行者和商人來往，<hex:02100103>而我則負責為他們介紹合適的店鋪。
+9,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_005,當然了，這也並非是我有多麼樂於助人。<hex:02100103>要是介紹成功了，那些店鋪也會給我一些中介費。
+10,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_006,這裡是胡薩塔伊驛鎮，是一個四通八達的交通要地。<hex:02100103>現在每天都有很多人通過佐戈永結橋來往於南北大陸，<hex:02100103>我們這裡可以說就是他們的中轉站。
+11,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_007,幾年前，這裡還是一片荒地呢。<hex:02100103>但切瑪卡的家族買下這片土地後，<hex:02100103>建起了乙太之光和進口物品的倉庫，鎮子就慢慢發展起來了。
+12,TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_008,那之後，各地的旅客絡繹不絕，有從事青磷水採集行業的人，<hex:02100103>還有那些要去遠方做生意的商人等等，都會在這停留消費。<hex:02100103>我們的日子也一天比一天好！

@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_000,啊，歡迎光臨。<hex:02100103>這裡是尤卡巨人族居住的沃拉的迴響……<hex:02100103>已經好久沒有佩魯佩魯族以外的客人來到這裡了。
+1,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_001,啊，豔翼蛇鳥被釋放出來了啊……<hex:02100103>至少讓我跟你講講這片土地的事情。<hex:02100103>這樣我們就可以一直活在你的記憶當中了……
+2,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_002,我們絕不會忘記客人做出的貢獻。<hex:02100103>關於生活在這裡的我們的記憶還將會延續下去……<hex:02100103>方便的話，希望你也能多了解一些關於我們的事。
+3,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_003,打倒了豔翼蛇鳥的人繼承了聯王之位啊，<hex:02100103>真是可喜可賀。<hex:02100103>這份記憶也要銘刻在我的墓地當中。
+4,TEXT_REGYOK6WORLARSECHO_00870_Q1_000_000,想了解什麼？
+5,TEXT_REGYOK6WORLARSECHO_00870_A1_000_001,你是做什麼的？
+6,TEXT_REGYOK6WORLARSECHO_00870_A1_000_002,這裡是什麼地方？
+7,TEXT_REGYOK6WORLARSECHO_00870_A1_000_003,取消
+8,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_010,我負責平時為大家提供伙食。<hex:02100103>另外因為大家覺得我的通用語發音比較標準，<hex:02100103>所以還負責為外地來的客人進行講解。
+9,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_011,雖然我也不覺得自己的發音有多標準，<hex:02100103>大概是因為其他同胞的發音都太糟糕了？<hex:02100103>大家都沒有惡意，所以也沒什麼好計較的。
+10,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_012,即便大家的肉體被擁有生命的天災焚燒殆盡，<hex:02100103>但只要能被別人記住，那也是無憾的……<hex:02100103>你一定要好好活下去啊。
+11,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_020,這裡被稱作沃拉的迴響。<hex:02100103>是岩石一塊一塊堆疊的聲音成就了大山……<hex:02100103>也是我們尤卡巨人族從出生到死亡都一直居住的地方。
+12,TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_021,不僅與外界的交流很少，而且這裡只有尤卡巨人族。<hex:02100103>我們平日裡就是一邊修繕著自古流傳的石製房屋，<hex:02100103>一邊和祖先們安靜地生活著。
