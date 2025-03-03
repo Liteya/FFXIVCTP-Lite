@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ415_01833_SEQ_00,贖罪天廊的莫古索恩在沉思。
 1,TEXT_HEAVNZ415_01833_SEQ_01,和莫古索恩進行了交談。在翻雲霧海的四臂廣場獲取3個<hex:022811FF0A>EventItem<hex:F61E8AE40103>。
-2,TEXT_HEAVNZ415_01833_SEQ_02,取得了<hex:022811FF0A>EventItem<hex:F61E8AE40103>。將<hex:022811FF0A>EventItem<hex:F61E8AE40103>交給翻雲霧海莫古力之家附近的莫古咪爾。
+2,TEXT_HEAVNZ415_01833_SEQ_02,取得了<hex:022811FF0A>EventItem<hex:F61E8AE40103>。將<hex:022811FF0A>EventItem<hex:F61E8AE40103>交給翻雲霧海莫古利之家附近的莫古咪爾。
 3,TEXT_HEAVNZ415_01833_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AE40103>交給了莫古咪爾。莫古咪爾表示非常高興。
 4,TEXT_HEAVNZ415_01833_SEQ_04,
 5,TEXT_HEAVNZ415_01833_SEQ_05,
@@ -51,9 +51,9 @@ int32,str,str
 46,TEXT_HEAVNZ415_01833_TODO_22,
 47,TEXT_HEAVNZ415_01833_TODO_23,
 48,TEXT_HEAVNZ415_01833_MOGSON_000_000,莫古的友人對人類的武器很感興趣，<hex:02100103>說它們寒光閃閃的看起來非常棒庫啵。
-49,TEXT_HEAVNZ415_01833_MOGSON_000_001,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古力之家的莫古咪爾庫啵。
-50,TEXT_HEAVNZ415_01833_MOGSON_000_010,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古力之家的莫古咪爾庫啵。
-51,TEXT_HEAVNZ415_01833_MOGSON_000_020,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古力之家的莫古咪爾庫啵。
+49,TEXT_HEAVNZ415_01833_MOGSON_000_001,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古利之家的莫古咪爾庫啵。
+50,TEXT_HEAVNZ415_01833_MOGSON_000_010,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古利之家的莫古咪爾庫啵。
+51,TEXT_HEAVNZ415_01833_MOGSON_000_020,莫古記得人王遺跡有3把人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>庫啵。<hex:02100103>希望你能找來拿給莫古利之家的莫古咪爾庫啵。
 52,TEXT_HEAVNZ415_01833_MOGMILL_000_030,人類製造的<hex:022811FF0A>EventItem<hex:F61E8AE40103>好酷庫啵……<hex:02100103>莫古咪爾也想要庫啵……
 53,TEXT_HEAVNZ415_01833_MOGMILL_000_031,這、這美麗的形狀，刺骨的寒光！<hex:02100103>是莫古索恩要把這些給莫古咪爾的庫啵？<hex:02100103>謝謝你庫啵！下次要去謝謝莫古索恩才行庫啵！
 54,TEXT_HEAVNZ415_01833_MOGMILL_000_032,人類的武器太棒了庫啵。<hex:02100103>不管是寒光閃閃的還是亮光閃閃的都好酷庫啵！

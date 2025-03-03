@@ -2,11 +2,11 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNA321_01622_SEQ_00,莫古力之家的莫古嘭想要對冒險者進行試煉。
-1,TEXT_HEAVNA321_01622_SEQ_01,莫古嘭希望冒險者尋找他丟失的繪飾石。向翻雲霧海莫古力之家的莫古力們打聽莫古嘭繪飾石的情報。
-2,TEXT_HEAVNA321_01622_SEQ_02,向莫古力們打聽了情報，得知了莫古嘭曾去過索姆阿爾峰頂。和莫古力之家的莫古嘭談談。
+0,TEXT_HEAVNA321_01622_SEQ_00,莫古利之家的莫古嘭想要對冒險者進行試煉。
+1,TEXT_HEAVNA321_01622_SEQ_01,莫古嘭希望冒險者尋找他丟失的繪飾石。向翻雲霧海莫古利之家的莫古利們打聽莫古嘭繪飾石的情報。
+2,TEXT_HEAVNA321_01622_SEQ_02,向莫古利們打聽了情報，得知了莫古嘭曾去過索姆阿爾峰頂。和莫古利之家的莫古嘭談談。
 3,TEXT_HEAVNA321_01622_SEQ_03,將打探到的情報告訴了莫古嘭。莫古嘭委託冒險者搶在畫迷前找到<hex:022811FF0A>EventItem<hex:F61E8AAF0103>。前往翻雲霧海的索姆阿爾峰頂尋找<hex:022811FF0A>EventItem<hex:F61E8AAF0103>。
-4,TEXT_HEAVNA321_01622_SEQ_04,獲得了<hex:022811FF0A>EventItem<hex:F61E8AAF0103>。將<hex:022811FF0A>EventItem<hex:F61E8AAF0103>交給莫古力之家的莫古嘭。
+4,TEXT_HEAVNA321_01622_SEQ_04,獲得了<hex:022811FF0A>EventItem<hex:F61E8AAF0103>。將<hex:022811FF0A>EventItem<hex:F61E8AAF0103>交給莫古利之家的莫古嘭。
 5,TEXT_HEAVNA321_01622_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8AAF0103>交給了莫古嘭。上面的超前衛花紋據莫古嘭說是畫的天極白堊宮。
 6,TEXT_HEAVNA321_01622_SEQ_06,
 7,TEXT_HEAVNA321_01622_SEQ_07,
@@ -26,7 +26,7 @@ int32,str,str
 21,TEXT_HEAVNA321_01622_SEQ_21,
 22,TEXT_HEAVNA321_01622_SEQ_22,
 23,TEXT_HEAVNA321_01622_SEQ_23,
-24,TEXT_HEAVNA321_01622_TODO_00,在莫古力之家收集情報
+24,TEXT_HEAVNA321_01622_TODO_00,在莫古利之家收集情報
 25,TEXT_HEAVNA321_01622_TODO_01,和莫古嘭對話
 26,TEXT_HEAVNA321_01622_TODO_02,尋找<hex:022811FF0A>EventItem<hex:F61E8AAF0103>
 27,TEXT_HEAVNA321_01622_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8AAF0103>交給莫古嘭
@@ -50,7 +50,7 @@ int32,str,str
 45,TEXT_HEAVNA321_01622_TODO_21,
 46,TEXT_HEAVNA321_01622_TODO_22,
 47,TEXT_HEAVNA321_01622_TODO_23,
-48,TEXT_HEAVNA321_01622_MOGWIN_000_000,你好你好，莫古名叫莫古嘭庫啵。<hex:02100103>莫古是村子裡首屈一指的藝術家……<hex:02100103>論畫畫的話沒有莫古力比莫古畫得更好庫啵。
+48,TEXT_HEAVNA321_01622_MOGWIN_000_000,你好你好，莫古名叫莫古嘭庫啵。<hex:02100103>莫古是村子裡首屈一指的藝術家……<hex:02100103>論畫畫的話沒有莫古利比莫古畫得更好庫啵。
 49,TEXT_HEAVNA321_01622_MOGWIN_000_001,話說回來，最近莫古在小石子上畫了風景畫，<hex:02100103>但這顆新作「繪飾石」卻不見了庫啵。
 50,TEXT_HEAVNA321_01622_MOGWIN_000_002,那可是莫古充滿熱情的新作，完全能給藝術界帶來一股新的熱潮，<hex:02100103>是價值4顆庫啵果的天價之作庫啵！<hex:02100103>於是莫古希望能得到冒險者的幫助庫啵。
 51,TEXT_HEAVNA321_01622_MOGWIN_000_003,能請你在村裡打聽一下有沒有人知道繪飾石的下落嗎庫啵？
@@ -70,4 +70,4 @@ int32,str,str
 65,TEXT_HEAVNA321_01622_MOGWIN_000_050,如、如何了庫啵？<hex:02100103>找到莫古的<hex:022811FF0A>EventItem<hex:F61E8AAF0103>了嗎庫啵？
 66,TEXT_HEAVNA321_01622_MOGWIN_000_051,就是這個就是這個庫啵！<hex:02100103>莫古在上面畫了天極白堊宮的<hex:022811FF0A>EventItem<hex:F61E8AAF0103>庫啵！
 67,TEXT_HEAVNA321_01622_MOGWIN_000_052,太感謝你了庫啵！<hex:02100103>這下可以去換一些莫古最愛的庫啵果了庫啵！
-68,TEXT_HEAVNA321_01622_SYSTEM_000_900,完成了莫古靈的所有試煉！<hex:02100103>去向莫古力之家的莫古靈報告吧。
+68,TEXT_HEAVNA321_01622_SYSTEM_000_900,完成了莫古靈的所有試煉！<hex:02100103>去向莫古利之家的莫古靈報告吧。

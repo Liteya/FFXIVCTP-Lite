@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNA319_01620_SEQ_00,莫古力之家的莫古唐想要對冒險者進行試煉。
+0,TEXT_HEAVNA319_01620_SEQ_00,莫古利之家的莫古唐想要對冒險者進行試煉。
 1,TEXT_HEAVNA319_01620_SEQ_01,接受莫古唐的考驗，去收集藥材。在翻雲霧海招惡荒島獲取3朵<hex:022811FF0A>EventItem<hex:F61E8AAD0103>。
-2,TEXT_HEAVNA319_01620_SEQ_02,獲得了3朵<hex:022811FF0A>EventItem<hex:F61E8AAD0103>。將<hex:022811FF0A>EventItem<hex:F61E8AAD0103>交給莫古力之家的莫古唐。
+2,TEXT_HEAVNA319_01620_SEQ_02,獲得了3朵<hex:022811FF0A>EventItem<hex:F61E8AAD0103>。將<hex:022811FF0A>EventItem<hex:F61E8AAD0103>交給莫古利之家的莫古唐。
 3,TEXT_HEAVNA319_01620_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AAD0103>交給了莫古唐。莫古唐似乎要用這種花製作絨絨止癢藥，只要塗一下這種藥，頭上的絨球就會變得清爽無比。
 4,TEXT_HEAVNA319_01620_SEQ_04,
 5,TEXT_HEAVNA319_01620_SEQ_05,
@@ -59,4 +59,4 @@ int32,str,str
 54,TEXT_HEAVNA319_01620_MOGHAN_000_010,你找到<hex:022811FF0A>EventItem<hex:F61E8AAD0103>了嗎庫啵？<hex:02100103>它可是不可或缺的藥材庫啵。<hex:02100103>快點給莫古吧庫啵！
 55,TEXT_HEAVNA319_01620_MOGHAN_000_011,就是這個！謝謝你庫啵。<hex:02100103>只要有了<hex:022811FF0A>EventItem<hex:F61E8AAD0103>，<hex:02100103>就可以製作絨絨止癢藥了庫啵！
 56,TEXT_HEAVNA319_01620_MOGHAN_000_012,如果你頭上的絨球也癢癢了，可以來找莫古庫啵！<hex:02100103>用了莫古調製的藥，保證你的絨球清爽無比庫啵！
-57,TEXT_HEAVNA319_01620_SYSTEM_000_900,完成了莫古靈的所有試煉！<hex:02100103>去向莫古力之家的莫古靈報告吧。
+57,TEXT_HEAVNA319_01620_SYSTEM_000_900,完成了莫古靈的所有試煉！<hex:02100103>去向莫古利之家的莫古靈報告吧。

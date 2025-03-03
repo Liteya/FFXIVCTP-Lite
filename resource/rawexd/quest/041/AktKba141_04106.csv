@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA141_04106_SEQ_00,蛇巢司令部的白蛇守護人正在等待著莫古力族的報告。
+0,TEXT_AKTKBA141_04106_SEQ_00,蛇巢司令部的白蛇守護人正在等待著莫古利族的報告。
 1,TEXT_AKTKBA141_04106_SEQ_01,和白蛇守護人進行了交談。由嘉恩·艾·神納負責種下樹苗。淨化中央林區翠淚擇伐區的<hex:02280CFF05>EObj<hex:F61EB2590103>。
 2,TEXT_AKTKBA141_04106_SEQ_02,淨化了<hex:02280CFF05>EObj<hex:F61EB2590103>。和嘉恩·艾·神納談談。
 3,TEXT_AKTKBA141_04106_SEQ_03,和嘉恩·艾·神納進行交談後，她種下了一棵飽含感謝之意的樹苗。接下來淨化南部林區沉默花壇的<hex:02280CFF05>EObj<hex:F61EB25A0103>。
@@ -77,12 +77,12 @@ int32,str,str
 72,TEXT_AKTKBA141_04106_KANESENNA_000_054,沉默花壇方向也有汙濁出現。<hex:02100103>我們去南部林區吧。
 73,TEXT_AKTKBA141_04106_KANESENNA_000_060,這次的步驟也和剛才一樣，麻煩您淨化汙濁了。
 74,TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_061,這裡的花朵全都枯萎了。<hex:02100103>要是汙濁遍布整個森林……想想就讓人膽寒。
-75,TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_070,不知道莫古力族還好嗎，他們沒有遭到格萊普尼爾襲擊吧……
+75,TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_070,不知道莫古利族還好嗎，他們沒有遭到格萊普尼爾襲擊吧……
 76,TEXT_AKTKBA141_04106_KANESENNA_000_080,好了，只剩下北部林區了。
 77,TEXT_AKTKBA141_04106_KANESENNA_000_081,應該是在林場水車附近吧……<hex:02100103>距離有點遠，我只能模糊地感覺到……總之我們先去看看吧。
 78,TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_090,沒想到這裡也有汙濁……<hex:02100103>希望這裡的人們的生活沒有被影響。
 79,TEXT_AKTKBA141_04106_KANESENNA_000_100,幸好這一處汙濁不是很嚴重。<hex:02100103>只要淨化汙濁後種下飽含感謝的樹苗，應該就能馬上恢復。
-80,TEXT_AKTKBA141_04106_KANESENNA_000_101,我能感覺到自然中乙太的流動正在恢復正常，<hex:02100103>莫古力族那邊應該也進行得很順利。
+80,TEXT_AKTKBA141_04106_KANESENNA_000_101,我能感覺到自然中乙太的流動正在恢復正常，<hex:02100103>莫古利族那邊應該也進行得很順利。
 81,TEXT_AKTKBA141_04106_KANESENNA_000_102,希望大元靈能靜下心來傾聽我的呼喊……
 82,TEXT_AKTKBA141_04106_HYRSTMILLBOTANIST_000_110,您是……嘉恩·艾大人吧？<hex:02100103>您來這裡做什麼……
 83,TEXT_AKTKBA141_04106_KANESENNA_000_111,我發現這裡有汙濁產生，為了恢復自然中乙太的正常流動，<hex:02100103>便來淨化汙濁並種下樹苗祈願黑衣森林的和平。

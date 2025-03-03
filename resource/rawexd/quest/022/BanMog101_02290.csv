@@ -3,11 +3,11 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANMOG101_02290_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>憶念廣場的機靈的莫古艾克有事情想要拜託冒險者。
-1,TEXT_BANMOG101_02290_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>莫古艾克委託冒險者製作用於訓練莫古力族工匠學徒的<hex:02280BFF05>Item<hex:F23D6D0103>。為了獲得製作所需要的材料，和翻雲霧海贖罪天廊的管理員莫古昂談談。
+1,TEXT_BANMOG101_02290_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>莫古艾克委託冒險者製作用於訓練莫古利族工匠學徒的<hex:02280BFF05>Item<hex:F23D6D0103>。為了獲得製作所需要的材料，和翻雲霧海贖罪天廊的管理員莫古昂談談。
 2,TEXT_BANMOG101_02290_SEQ_02,和莫古昂進行了交談，領取了<hex:02280BFF05>Item<hex:F23D870103>。用<hex:02280BFF05>Item<hex:F23D870103>製作<hex:02280BFF05>Item<hex:F23D6D0103>，並將其交給贖罪天廊的採購員莫古珀。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F23D870103>不足，可以與管理員莫古昂對話重新獲得材料，並再次進行挑戰。
-3,TEXT_BANMOG101_02290_SEQ_03,將<hex:02280BFF05>Item<hex:F23D6D0103>交給了莫古珀，他又委託冒險者將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>分配給莫古力族工匠學徒們。將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給贖罪天廊的莫古力族工匠學徒們。
-4,TEXT_BANMOG101_02290_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給了莫古力族工匠學徒們。向憶念廣場的機靈的莫古艾克報告。
-5,TEXT_BANMOG101_02290_SEQ_05,向莫古艾克報告完畢。等莫古力族工匠學徒們學好了技術，修復工作肯定會更加順利。
+3,TEXT_BANMOG101_02290_SEQ_03,將<hex:02280BFF05>Item<hex:F23D6D0103>交給了莫古珀，他又委託冒險者將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>分配給莫古利族工匠學徒們。將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給贖罪天廊的莫古利族工匠學徒們。
+4,TEXT_BANMOG101_02290_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給了莫古利族工匠學徒們。向憶念廣場的機靈的莫古艾克報告。
+5,TEXT_BANMOG101_02290_SEQ_05,向莫古艾克報告完畢。等莫古利族工匠學徒們學好了技術，修復工作肯定會更加順利。
 6,TEXT_BANMOG101_02290_SEQ_06,
 7,TEXT_BANMOG101_02290_SEQ_07,
 8,TEXT_BANMOG101_02290_SEQ_08,
@@ -28,7 +28,7 @@ int32,str,str
 23,TEXT_BANMOG101_02290_SEQ_23,
 24,TEXT_BANMOG101_02290_TODO_00,和管理員莫古昂對話
 25,TEXT_BANMOG101_02290_TODO_01,<hex:020869E3E802E803FF37>製作筆記 友好部族任務：製作<hex:02280BFF05>Item<hex:F23D6D0103><hex:FF2A>將<hex:02280BFF05>Item<hex:F23D6D0103>交給採購員莫古珀<hex:03>
-26,TEXT_BANMOG101_02290_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給莫古力族工匠學徒
+26,TEXT_BANMOG101_02290_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8C3E0103>交給莫古利族工匠學徒
 27,TEXT_BANMOG101_02290_TODO_03,向機靈的莫古艾克報告
 28,TEXT_BANMOG101_02290_TODO_04,
 29,TEXT_BANMOG101_02290_TODO_05,

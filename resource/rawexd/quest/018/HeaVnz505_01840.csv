@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNZ505_01840_SEQ_00,莫古力之家附近的莫古咪爾在開心地看著什麼。
-1,TEXT_HEAVNZ505_01840_SEQ_01,和莫古咪爾進行了交談。人類製造的金屬在莫古力族之間很是流行。前往翻雲霧海的書信之家，從<hex:02280CFF05>EObj<hex:F61E9AD50103>中取得5個<hex:022811FF0A>EventItem<hex:F61E8AEC0103>。
-2,TEXT_HEAVNZ505_01840_SEQ_02,得到了<hex:022811FF0A>EventItem<hex:F61E8AEC0103>。將<hex:022811FF0A>EventItem<hex:F61E8AEC0103>交給莫古力之家附近的莫古咪爾。
+0,TEXT_HEAVNZ505_01840_SEQ_00,莫古利之家附近的莫古咪爾在開心地看著什麼。
+1,TEXT_HEAVNZ505_01840_SEQ_01,和莫古咪爾進行了交談。人類製造的金屬在莫古利族之間很是流行。前往翻雲霧海的書信之家，從<hex:02280CFF05>EObj<hex:F61E9AD50103>中取得5個<hex:022811FF0A>EventItem<hex:F61E8AEC0103>。
+2,TEXT_HEAVNZ505_01840_SEQ_02,得到了<hex:022811FF0A>EventItem<hex:F61E8AEC0103>。將<hex:022811FF0A>EventItem<hex:F61E8AEC0103>交給莫古利之家附近的莫古咪爾。
 3,TEXT_HEAVNZ505_01840_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AEC0103>交給了莫古咪爾。莫古咪爾非常開心，並稱讚這些<hex:022811FF0A>EventItem<hex:F61E8AEC0103>很酷。
 4,TEXT_HEAVNZ505_01840_SEQ_04,
 5,TEXT_HEAVNZ505_01840_SEQ_05,

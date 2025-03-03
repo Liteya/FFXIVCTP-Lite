@@ -4,8 +4,8 @@ offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ509_01844_SEQ_00,贖罪天廊的莫古格有些寢食難安。
 1,TEXT_HEAVNZ509_01844_SEQ_01,和莫古格進行了交談。據說在四臂廣場長出了很多新芽。在翻雲霧海的四臂廣場採集5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>。
-2,TEXT_HEAVNZ509_01844_SEQ_02,取得了<hex:022811FF0A>EventItem<hex:F61E8AED0103>。將<hex:022811FF0A>EventItem<hex:F61E8AED0103>交給翻雲霧海莫古力之家附近的莫古西亞。
-3,TEXT_HEAVNZ509_01844_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AED0103>交給了莫古西亞。殺氣騰騰的龍族們令植物都遭了殃。莫古西亞等莫古力想要保護植物。
+2,TEXT_HEAVNZ509_01844_SEQ_02,取得了<hex:022811FF0A>EventItem<hex:F61E8AED0103>。將<hex:022811FF0A>EventItem<hex:F61E8AED0103>交給翻雲霧海莫古利之家附近的莫古西亞。
+3,TEXT_HEAVNZ509_01844_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AED0103>交給了莫古西亞。殺氣騰騰的龍族們令植物都遭了殃。莫古西亞等莫古利想要保護植物。
 4,TEXT_HEAVNZ509_01844_SEQ_04,
 5,TEXT_HEAVNZ509_01844_SEQ_05,
 6,TEXT_HEAVNZ509_01844_SEQ_06,
@@ -51,9 +51,9 @@ int32,str,str
 46,TEXT_HEAVNZ509_01844_TODO_22,
 47,TEXT_HEAVNZ509_01844_TODO_23,
 48,TEXT_HEAVNZ509_01844_MOGEUGE_000_000,四臂廣場長出了很多新芽庫啵。<hex:02100103>但新芽長在那裡的話肯定會枯萎掉的庫啵。<hex:02100103>得把新芽挪到安全的地方好好栽培庫啵。
-49,TEXT_HEAVNZ509_01844_MOGEUGE_000_001,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古力之家的莫古西亞庫啵。
-50,TEXT_HEAVNZ509_01844_MOGEUGE_000_010,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古力之家的莫古西亞庫啵。
-51,TEXT_HEAVNZ509_01844_MOGEUGE_000_020,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古力之家的莫古西亞庫啵。
+49,TEXT_HEAVNZ509_01844_MOGEUGE_000_001,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古利之家的莫古西亞庫啵。
+50,TEXT_HEAVNZ509_01844_MOGEUGE_000_010,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古利之家的莫古西亞庫啵。
+51,TEXT_HEAVNZ509_01844_MOGEUGE_000_020,請從四臂廣場採5個<hex:022811FF0A>EventItem<hex:F61E8AED0103>回來庫啵！<hex:02100103>然後將它們交給莫古利之家的莫古西亞庫啵。
 52,TEXT_HEAVNZ509_01844_MOGGZIA_000_030,庫啵？<hex:02100103>找莫古有事嗎庫啵？
 53,TEXT_HEAVNZ509_01844_MOGGZIA_000_031,莫古格讓交給莫古的庫啵？<hex:02100103>明白了，莫古會讓這些新芽在這裡茁壯成長的庫啵！
 54,TEXT_HEAVNZ509_01844_MOGGZIA_000_032,自從龍族變得殺氣騰騰，植物們全都遭殃了庫啵。<hex:02100103>莫古們只能通過這種方式來保護它們庫啵！

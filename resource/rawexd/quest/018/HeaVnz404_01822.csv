@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNZ404_01822_SEQ_00,莫古力之家的莫古莫莫有些在意北方的情況。
+0,TEXT_HEAVNZ404_01822_SEQ_00,莫古利之家的莫古莫莫有些在意北方的情況。
 1,TEXT_HEAVNZ404_01822_SEQ_01,莫古莫莫委託冒險者採摘<hex:022811FF0A>EventItem<hex:F61E8AE00103>。前往翻雲霧海的人王遺跡尋找並獲取<hex:022811FF0A>EventItem<hex:F61E8AE00103>。
-2,TEXT_HEAVNZ404_01822_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AE00103>。將<hex:022811FF0A>EventItem<hex:F61E8AE00103>交給莫古力之家的莫古莫莫。
+2,TEXT_HEAVNZ404_01822_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AE00103>。將<hex:022811FF0A>EventItem<hex:F61E8AE00103>交給莫古利之家的莫古莫莫。
 3,TEXT_HEAVNZ404_01822_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8AE00103>交給了莫古莫莫。<hex:022811FF0A>EventItem<hex:F61E8AE00103>非常珍貴，莫古莫莫開心地表示要認真培育它們。
 4,TEXT_HEAVNZ404_01822_SEQ_04,
 5,TEXT_HEAVNZ404_01822_SEQ_05,
@@ -53,5 +53,5 @@ int32,str,str
 48,TEXT_HEAVNZ404_01822_MOGOMO_000_000,好棒，這可是非常難得的事情庫啵！<hex:02100103>人王遺跡那邊的<hex:022811FF0A>EventItem<hex:F61E8AE00103>開花了庫啵！<hex:02100103>能請你幫莫古採3朵回來嗎庫啵？
 49,TEXT_HEAVNZ404_01822_MOGOMO_000_010,好棒，這可是非常難得的事情庫啵！<hex:02100103>人王遺跡那邊的<hex:022811FF0A>EventItem<hex:F61E8AE00103>開花了庫啵！<hex:02100103>能請你幫莫古採3朵回來嗎庫啵？
 50,TEXT_HEAVNZ404_01822_MOGOMO_000_020,好棒，這可是非常難得的事情庫啵！<hex:02100103>人王遺跡那邊的<hex:022811FF0A>EventItem<hex:F61E8AE00103>開花了庫啵！<hex:02100103>能請你幫莫古採3朵回來嗎庫啵？
-51,TEXT_HEAVNZ404_01822_MOGOMO_000_021,真漂亮庫啵！謝謝你庫啵！<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8AE00103>非常受喜歡音樂的莫古力歡迎庫啵。<hex:02100103>莫古莫莫要好好栽培它們，不會讓它們枯萎掉庫啵！
+51,TEXT_HEAVNZ404_01822_MOGOMO_000_021,真漂亮庫啵！謝謝你庫啵！<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8AE00103>非常受喜歡音樂的莫古利歡迎庫啵。<hex:02100103>莫古莫莫要好好栽培它們，不會讓它們枯萎掉庫啵！
 52,TEXT_HEAVNZ404_01822_MOGOMO_000_022,然後悄悄建一座秘密花園招待大家來玩庫啵！<hex:02100103>好期待庫啵！

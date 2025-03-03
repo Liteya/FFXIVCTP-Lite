@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNZ520_01855_SEQ_00,惋惜之晶遺跡附近撲閃撲閃的莫古力一副精疲力竭的樣子。
-1,TEXT_HEAVNZ520_01855_SEQ_01,和撲閃撲閃的莫古力進行了交談。撲閃撲閃的莫古力正因為被好奇心旺盛的<hex:02280FFF09>BNpcName<hex:F20E270103>追趕而煩惱。在惋惜之晶遺跡附近討伐4隻<hex:02280FFF09>BNpcName<hex:F20E270103>。
-2,TEXT_HEAVNZ520_01855_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E270103>。向惋惜之晶遺跡附近撲閃撲閃的莫古力報告。
-3,TEXT_HEAVNZ520_01855_SEQ_03,向撲閃撲閃的莫古力報告完畢。撲閃撲閃的莫古力生氣地認為就算自己再可愛也不該這樣追上來揪自己屁股上的毛。
+0,TEXT_HEAVNZ520_01855_SEQ_00,惋惜之晶遺跡附近撲閃撲閃的莫古利一副精疲力竭的樣子。
+1,TEXT_HEAVNZ520_01855_SEQ_01,和撲閃撲閃的莫古利進行了交談。撲閃撲閃的莫古利正因為被好奇心旺盛的<hex:02280FFF09>BNpcName<hex:F20E270103>追趕而煩惱。在惋惜之晶遺跡附近討伐4隻<hex:02280FFF09>BNpcName<hex:F20E270103>。
+2,TEXT_HEAVNZ520_01855_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E270103>。向惋惜之晶遺跡附近撲閃撲閃的莫古利報告。
+3,TEXT_HEAVNZ520_01855_SEQ_03,向撲閃撲閃的莫古利報告完畢。撲閃撲閃的莫古利生氣地認為就算自己再可愛也不該這樣追上來揪自己屁股上的毛。
 4,TEXT_HEAVNZ520_01855_SEQ_04,
 5,TEXT_HEAVNZ520_01855_SEQ_05,
 6,TEXT_HEAVNZ520_01855_SEQ_06,
@@ -27,7 +27,7 @@ int32,str,str
 22,TEXT_HEAVNZ520_01855_SEQ_22,
 23,TEXT_HEAVNZ520_01855_SEQ_23,
 24,TEXT_HEAVNZ520_01855_TODO_00,討伐<hex:02280FFF09>BNpcName<hex:F20E270103>
-25,TEXT_HEAVNZ520_01855_TODO_01,向撲閃撲閃的莫古力報告
+25,TEXT_HEAVNZ520_01855_TODO_01,向撲閃撲閃的莫古利報告
 26,TEXT_HEAVNZ520_01855_TODO_02,
 27,TEXT_HEAVNZ520_01855_TODO_03,
 28,TEXT_HEAVNZ520_01855_TODO_04,

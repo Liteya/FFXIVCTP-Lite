@@ -133,7 +133,7 @@ int32,str,str,str,str,str
 189,/goldsaucer,/saucer,/金碟遊樂場(/金碟)<hex:02100103>/goldsaucer、/saucer<hex:02100103>打開金碟遊樂場視窗。,,
 190,/currency,,/貨幣一覽(/貨幣)<hex:02100103>/currency<hex:02100103>打開貨幣一覽視窗。,,
 191,/aethercurrent,/acurrent,/風脈泉(/風脈)<hex:02100103>/aethercurrent、/acurrent<hex:02100103>打開風脈泉視窗。,,
-192,/logcolor,/lcolor,/消息顏色<hex:02100103>/logcolor、/lcolor<hex:02100103>打開消息顏色設定視窗。,,
+192,/logcolor,/lcolor,/消息顏色<hex:02100103>/logcolor、/lcolor<hex:02100103>打開訊息顏色設定視窗。,,
 193,/playguide,/pguide,/資訊中心(/資訊)<hex:02100103>/playguide、/pguide<hex:02100103>打開資訊中心視窗。,,
 194,/generaldutykey,/gdutykey,/任務通用鍵<hex:02100103>/generaldutykey、/gdutykey<hex:02100103>執行任務通用鍵。<hex:02100103><hex:02100103>>>示例<hex:02100103>危命任務範圍內<hex:02100103>切換等級同步。,/contentskey,
 195,/raidfinder,/rfinder,/大型任務搜尋器<hex:02100103>/raidfinder、/rfinder<hex:02100103>打開大型任務搜尋器。,,
