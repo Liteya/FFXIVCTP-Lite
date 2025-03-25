@@ -1,5 +1,5 @@
 # FFXIV_GP_Lite
-* 基于 [FFXIVChnTextPatch-GP](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma) 修改
+* 基于 [FFXIVChnTextPatch-GP](https://github.com/GpointChen/FFXIVChnTextPatch-GP) 修改
 * 追加資料來源 [FFXIVChnTextPatch-Souma](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma)
 
 ## 額外追加說明
