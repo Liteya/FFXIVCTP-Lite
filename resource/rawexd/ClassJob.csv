@@ -2,7 +2,7 @@
 #,Name,Abbreviation,,Name{English}
 offset,0,4,8,16
 int32,str,str,str,str
-0,冒險者,ADV,,Adventurer
+0,,,,Adventurer
 1,劍術師,GLA,劍,Gladiator
 2,格鬥家,PGL,格,Pugilist
 3,斧術師,MRD,斧,Marauder
