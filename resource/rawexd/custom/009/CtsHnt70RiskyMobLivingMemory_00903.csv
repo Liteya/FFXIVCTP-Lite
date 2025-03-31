@@ -15,7 +15,7 @@ int32,str,str
 10,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_007,取消
 11,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_010,我們忘斷軍是通過遠程操控機器兵來調查活著的記憶的。<hex:02100103>這比親自前往那裡要安全得多，但也並不是毫無缺點。
 12,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_011,駭入機器兵需要投入大量時間和精力，<hex:02100103>機器兵本身也很顯眼。好多魔物都喜歡跟在後面動手動腳。<hex:02100103>其中最過分的當屬攜寶精。
-13,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_012,它會對任何閃閃發光的東西一見傾心，最離譜的時候甚至會把機械士<hex:02100103>兵的頭整個拔下來帶走。這嚴重妨礙了我們的調查工作，<hex:02100103>下次見到它的時候一定要幫我們揍它個落花流水、眼冒金星！
+13,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_012,它會對任何閃閃發光的東西一見傾心，最離譜的時候甚至會把<hex:02100103>機器兵的頭整個拔下來帶走。這嚴重妨礙了我們的調查工作，<hex:02100103>下次見到它的時候一定要幫我們揍它個落花流水、眼冒金星！
 14,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_020,你在昨日樂園見到過飄來飄去，床單模樣的魔物嗎？<hex:02100103>它們之中有一個特殊的個體引起了我們的注意。
 15,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_021,我們在昨日樂園之外發現了它，<hex:02100103>它會把自己披在其他動植物身上，然後那些動植物就消失了！<hex:02100103>完全搞不清楚它這麼做的目的。
 16,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_022,順便一提，<hex:02100103>「第十三個孩子」的名字源於亞歷山德里亞的鬼故事，<hex:02100103>故事說……算了！肯定會嚇死你的，還是不說了。
@@ -28,7 +28,7 @@ int32,str,str
 23,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_043,如果傳說是真的，那貓眼說不定就是那些厄運的化身。<hex:02100103>既然是從人的記憶中創造出來的生物，<hex:02100103>這麼解釋或許也說得通？
 24,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_050,基礎系統中的資訊顯示，<hex:02100103>活著的記憶中存在一個名為天氣預報機器人的自控機器。
 25,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_051,不過這個名字有些誤導。<hex:02100103>它的功能並不是預報天氣，<hex:02100103>而是通過干涉四周的環境乙太控制天氣。
-26,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_052,雖然它是如此被設計的，但它現在出現了故障，產生了自我意識。<hex:02100103>如果不加以控制，很可能會引發天災級別的災害。<hex:02100103>為了保障設施安全，必須儘早破壞它。
+26,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_052,雖然它是如此被設計的，但它現在出現了故障，產生了自我意識。<hex:02100103>如果不加以控制，很可能會引發天災級別的災害。<hex:02100103>為了保障設施安全，必須盡早破壞它。
 27,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_053,根據我們目前掌握的資訊，它的「極端天氣抑制系統」仍在運行，<hex:02100103>因此對環境乙太的變化極為敏感。<hex:02100103>如果你能找到一種方法讓局部乙太產生異常，說不定可以引它出來。
 28,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_054,相距甚遠的兩個地方，居然也會存在如出一轍的傳說。<hex:02100103>不論是偶然還是必然，都讓人饒有興趣。
 29,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_055,30年前，那皮凱等「圖拉爾大陸的居民」突然來到了我們的生活。<hex:02100103>他們擁有和我們亞歷山德里亞人完全不同的文化。<hex:02100103>然而兩個文化中卻都流傳著相似的傳說。
