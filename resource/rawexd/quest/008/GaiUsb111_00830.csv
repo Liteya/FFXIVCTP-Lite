@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB111_00830_SEQ_00,遺忘綠洲的烏·庫巴·提亞，看上去十分憤怒的樣子……
+0,TEXT_GAIUSB111_00830_SEQ_00,遺忘綠洲的烏·庫巴·提亞，看起來十分憤怒的樣子……
 1,TEXT_GAIUSB111_00830_SEQ_01,烏·庫巴·提亞對於烏·恰卡·提亞竟讓冒險者在烏·卡茲娜的修行中幫忙一事，感到十分惱火。和烏·恰卡·提亞交談。
 2,TEXT_GAIUSB111_00830_SEQ_02,烏·恰卡·提亞十分擔心烏·卡茲娜。在附近尋找烏·卡茲娜。
 3,TEXT_GAIUSB111_00830_SEQ_03,烏·卡茲娜希望冒險者用<hex:022811FF0A>EventItem<hex:F61E87070103>將<hex:02280FFF09>BNpcName<hex:F2088F0103>捕獲回來。將<hex:02280FFF09>BNpcName<hex:F2088F0103>的體力降低至瀕危狀態，對其使用<hex:022811FF0A>EventItem<hex:F61E87070103>捕獲它。

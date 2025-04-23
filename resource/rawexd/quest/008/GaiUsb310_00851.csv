@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB310_00851_SEQ_00,太陽海岸的格格魯玖，看上去一副無所事事的樣子。
+0,TEXT_GAIUSB310_00851_SEQ_00,太陽海岸的格格魯玖，看起來一副無所事事的樣子。
 1,TEXT_GAIUSB310_00851_SEQ_01,格格魯玖想出了一個能吹起清爽海風的主意。首先從<hex:02280DFF09>BNpcName<hex:740103>身上獲得3個<hex:022811FF0A>EventItem<hex:F61E87140103>。
 2,TEXT_GAIUSB310_00851_SEQ_02,獲得了3個<hex:022811FF0A>EventItem<hex:F61E87140103>。將其放置於太陽海岸南面懸崖上的<hex:02280CFF05>EObj<hex:F61E8C8F0103>處，用其招來強大的<hex:02280DFF09>BNpcName<hex:740103>。
 3,TEXT_GAIUSB310_00851_SEQ_03,出現的<hex:02280FFF09>BNpcName<hex:F207BB0103>襲擊了冒險者。向太陽海岸的格格魯玖報告。

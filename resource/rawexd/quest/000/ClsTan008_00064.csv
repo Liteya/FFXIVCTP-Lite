@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSTAN008_00064_SEQ_00,製革匠公會的蓋娃，看上去十分苦惱。
+0,TEXT_CLSTAN008_00064_SEQ_00,製革匠公會的蓋娃，看起來十分苦惱。
 1,TEXT_CLSTAN008_00064_SEQ_01,接受了蓋娃的委託。籌備1雙<hex:022813FF07>ItemHQ<hex:FF08>　3639<hex:0103>，讓格里達尼亞製革匠公會的蓋娃查看。
 2,TEXT_CLSTAN008_00064_SEQ_02,讓蓋娃查看了<hex:022813FF07>ItemHQ<hex:FF08>　3639<hex:0103>。將<hex:022813FF07>ItemHQ<hex:FF08>　3639<hex:0103>交給老練的鍛鐵匠，他就在格里達尼亞的飛·烏爾工作室中。
 3,TEXT_CLSTAN008_00064_SEQ_03,將<hex:022813FF07>ItemHQ<hex:FF08>　3639<hex:0103>交給了老練的鍛鐵匠。向格里達尼亞製革匠公會的蓋娃報告。

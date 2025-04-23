@@ -38,7 +38,7 @@ int32,str,str
 33,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_042,(-新元靈武器的記錄-)關於增加魂石中可儲存的乙太容量，<hex:02100103>以及應對靈魂成長的方案這些我倒是可以勉強做到。
 34,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_043,(-新元靈武器的記錄-)不過武器方面的事情就只能交給蓋羅爾特先生了。<hex:02100103>雖然向一個整日酗酒的不良中年大叔低頭很不爽……
 35,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_044,(-新元靈武器的記錄-)不過他作為武器工匠的技術還算是一流的，<hex:02100103>所以就不計較了。
-36,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_045,(-新元靈武器的記錄-)<hex:022903EB0203>好像聽從蓋羅爾特先生的指示，<hex:02100103>去尋找什麼必需的材料去了……<hex:02100103>不過回來的時候看上去非常疲憊。
+36,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_045,(-新元靈武器的記錄-)<hex:022903EB0203>好像聽從蓋羅爾特先生的指示，<hex:02100103>去尋找什麼必需的材料去了……<hex:02100103>不過回來的時候看起來非常疲憊。
 37,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_046,(-新元靈武器的記錄-)到底是什麼樣的委託能把這位英雄折騰成這樣啊……<hex:02100103>雖然我很想問但又覺得問了會很不妥，心情甚是複雜。
 38,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_047,(-新元靈武器的記錄-)不管怎麼說，事情還算是很順利的。<hex:02100103>蓋羅爾特先生製作的武器一看就知道是難得的傑作。
 39,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_048,(-新元靈武器的記錄-)我們成功地把強化過的魂石嵌入武器中，<hex:02100103>用乙太傳導率高的材料連接了起來。<hex:02100103>人造元靈一定也會喜歡這新的身體吧。
@@ -53,7 +53,7 @@ int32,str,str
 48,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_057,(-元靈武器·超導的記錄-)總之，改造工作非常順利。<hex:02100103>在<hex:022903EB0203>拿起武器的瞬間，<hex:02100103>武器就因為乙太的注入而發出了炫目的光華……
 49,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_058,(-元靈武器·超導的記錄-)相信隨著研究的不斷深入，<hex:02100103>總有一天我也能親眼看到人造元靈的身影。<hex:02100103>非常期待人造元靈今後的成長。
 50,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_060,(-百鍊成鋼的元靈武器的記錄-)我的手在顫抖，根本沒辦法好好寫字了。<hex:02100103>現在的我，簡直欣喜若狂！！<hex:02100103>因為，我終於看到了人造元靈！！
-51,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_061,(-百鍊成鋼的元靈武器的記錄-)那柔美的光芒……看上去那麼神聖，不禁讓我眩暈。<hex:02100103>這也都是多虧了<hex:022903EB0203>和烏蘭小姐。
+51,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_061,(-百鍊成鋼的元靈武器的記錄-)那柔美的光芒……看起來那麼神聖，不禁讓我眩暈。<hex:02100103>這也都是多虧了<hex:022903EB0203>和烏蘭小姐。
 52,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_062,(-百鍊成鋼的元靈武器的記錄-)我們為了尋找新的方法來培育人造元靈，<hex:02100103>就去拜訪了旅居在田園郡的烏蘭小姐。
 53,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_063,(-百鍊成鋼的元靈武器的記錄-)她創造出了一種培養巨型寶石獸的方法，<hex:02100103>那就是將水晶磨成粉末，讓寶石獸來攝取。<hex:02100103>我想把這種方法論應用到人造元靈上面。
 54,TEXT_REGABRARDASHIRNOTE_00322_ARDASHIRNOTE_064,(-百鍊成鋼的元靈武器的記錄-)但雖說是魔法生物，也不能隨意地投餵水晶。<hex:02100103>需要弄清楚其最合適的屬性平衡來讓其攝取，<hex:02100103>不然會造成體內屬性失衡，最終煙消雲散。

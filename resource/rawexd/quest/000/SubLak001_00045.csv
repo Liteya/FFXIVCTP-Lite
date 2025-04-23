@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_SUBLAK001_00045_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8A460103>交給了六花。多瑪的孩子們對廢棄營地中隱藏著寶藏的傳聞很感興趣。在廢棄營地的指定地點進行張望。
 4,TEXT_SUBLAK001_00045_SEQ_04,多瑪冒險者團造訪了廢棄營地。在廢棄營地尋找寶藏的線索。
 5,TEXT_SUBLAK001_00045_SEQ_05,在廢棄營地獲得了<hex:022811FF0A>EventItem<hex:F61E8A360103>。將<hex:022811FF0A>EventItem<hex:F61E8A360103>交給廢棄營地的陽山。
-6,TEXT_SUBLAK001_00045_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E8A360103>交給了陽山。找到的線索都是些破銅爛鐵，但<hex:022811FF0A>EventItem<hex:F61E8A360103>看上去年代久遠，說不定還有些價值。將<hex:022811FF0A>EventItem<hex:F61E8A360103>交給喪靈鐘的斯拉佛伯恩並和他談談。
+6,TEXT_SUBLAK001_00045_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E8A360103>交給了陽山。找到的線索都是些破銅爛鐵，但<hex:022811FF0A>EventItem<hex:F61E8A360103>看起來年代久遠，說不定還有些價值。將<hex:022811FF0A>EventItem<hex:F61E8A360103>交給喪靈鐘的斯拉佛伯恩並和他談談。
 7,TEXT_SUBLAK001_00045_SEQ_07,與斯拉佛伯恩就<hex:022811FF0A>EventItem<hex:F61E8A360103>進行了交談。得知了隱藏在<hex:022811FF0A>EventItem<hex:F61E8A360103>中的寶藏的真相。向喪靈鐘的陽山報告。
 8,TEXT_SUBLAK001_00045_SEQ_08,向陽山報告完畢。陽山在得知那並不是他期待已久的寶藏後感到很失望，但是對能和大家一起冒險感到十分滿足。
 9,TEXT_SUBLAK001_00045_SEQ_09,
@@ -109,7 +109,7 @@ int32,str,str
 104,TEXT_SUBLAK001_00045_SHIUN_000_110,嗚哇，好厲害。<hex:02100103>竟然會形成一個這麼深的洞穴。<hex:02100103>寶藏要是在這下面可就沒轍了。
 105,TEXT_SUBLAK001_00045_ROKKA_000_115,……這裡如此荒涼，<hex:02100103>就算寶藏存在，現在也早已落入魔物腹中了吧？
 106,TEXT_SUBLAK001_00045_SYSTEM_200_115,找到了<hex:022811FF0A>EventItem<hex:F61E8A360103>……
-107,TEXT_SUBLAK001_00045_YOUZAN_100_120,找不到看上去像是線索的東西啊。<hex:02100103><hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你有什麼發現嗎？
+107,TEXT_SUBLAK001_00045_YOUZAN_100_120,找不到看起來像是線索的東西啊。<hex:02100103><hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你有什麼發現嗎？
 108,TEXT_SUBLAK001_00045_YOUZAN_000_120,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>找到的也是些破爛。<hex:02100103>果然寶藏是不會那麼容易就能找到的。
 109,TEXT_SUBLAK001_00045_ROKKA_000_121,……再怎麼說情報也太少了。<hex:02100103>不過<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>找到的葡萄酒說不定倒是個古董。
 110,TEXT_SUBLAK001_00045_KOHARU_000_122,這是古典葡萄酒吧。<hex:02100103>要是年代久遠的話說不定會很值錢呢。<hex:02100103>之前我聽芙·拉敏說過。

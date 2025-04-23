@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSTAN009_00065_SEQ_00,製革匠公會的蓋娃，看上去十分忙碌。
+0,TEXT_CLSTAN009_00065_SEQ_00,製革匠公會的蓋娃，看起來十分忙碌。
 1,TEXT_CLSTAN009_00065_SEQ_01,接受了蓋娃的委託。籌備<hex:022813FF07>ItemHQ<hex:FF08>　3651<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2270<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　4360<hex:0103>各1件，讓格里達尼亞製革匠公會的蓋娃查看它們。
 2,TEXT_CLSTAN009_00065_SEQ_02,讓蓋娃查看了<hex:022813FF07>ItemHQ<hex:FF08>　3651<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2270<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　4360<hex:0103>。將已完成的防具送給各位委託人。將<hex:022813FF07>ItemHQ<hex:FF08>　3651<hex:0103>交給豐饒神祭壇的皮茉·奈爾赫，將<hex:022813FF07>ItemHQ<hex:FF08>　2270<hex:0103>交給魔女咖啡館中的勒里克，將<hex:022813FF07>ItemHQ<hex:FF08>　4360<hex:0103>交給樹蔭東屋的娜戈·嘉宛塔爾。
 3,TEXT_CLSTAN009_00065_SEQ_03,送完所有的委託品了。向格里達尼亞製革匠公會的蓋娃報告。

@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBCTS809_01424_SEQ_00,黃昏灣的貿易商塔塔芙看上去很煩惱。
+0,TEXT_SUBCTS809_01424_SEQ_00,黃昏灣的貿易商塔塔芙看起來很煩惱。
 1,TEXT_SUBCTS809_01424_SEQ_01,塔塔芙委託冒險者，代替因暈船而倒下的運貨人搬運貨物。前往西薩納蘭的月牙灣，將<hex:022811FF0A>EventItem<hex:F61E89580103>和<hex:022811FF0A>EventItem<hex:F61E89590103>交給納納拉伊。
 2,TEXT_SUBCTS809_01424_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E89580103>和<hex:022811FF0A>EventItem<hex:F61E89590103>交給了納納拉伊。將<hex:022811FF0A>EventItem<hex:F61E895A0103>交給黃昏灣的塔塔芙。
 3,TEXT_SUBCTS809_01424_SEQ_03,塔塔芙說她支持納納拉伊開墾田地，也把一些剩餘的種子分給了冒險者。在冒險者住宅區擁有土地之後，在庭院裡開拓一塊小田地也不錯。

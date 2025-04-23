@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_001,中繼乙太之晶看上去完好無損，<hex:02100103>但已經完全停止了運轉。
+0,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_001,中繼乙太之晶看起來完好無損，<hex:02100103>但已經完全停止了運轉。
 1,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_002,(-可露兒的聲音-)<hex:022903EB0203>……是我，可露兒。<hex:02100103>我想你應該差不多已經確認完中繼乙太之晶的狀態了，<hex:02100103>所以就來聯繫你了，乙太之晶的狀態如何？
 2,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_003,(-可露兒的聲音-)……是嗎？沒有任何破損卻沒有啟動啊。<hex:02100103>恐怕是傳送目的地的乙太之光出現了故障吧。
 3,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_004,(-可露兒的聲音-)既然這樣，就試試強制啟動吧。<hex:02100103>請你將大量的乙太注入到中繼乙太之晶中，<hex:02100103>讓其內部的乙太飽和，促使其再次啟動。

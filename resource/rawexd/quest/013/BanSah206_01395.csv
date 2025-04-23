@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANSAH206_01395_SEQ_00,諾布養育場的荷烏看上去似乎很煩惱。
+0,TEXT_BANSAH206_01395_SEQ_00,諾布養育場的荷烏看起來似乎很煩惱。
 1,TEXT_BANSAH206_01395_SEQ_01,荷烏委託冒險者幫忙整頓產卵地的環境。在薩普沙產卵地使用<hex:022811FF0A>EventItem<hex:F61E89700103>封住5隻<hex:02280CFF05>EObj<hex:F61E936D0103>。遭到<hex:02280FFF09>BNpcName<hex:F20AAA0103>襲擊的話就將其討伐。
 2,TEXT_BANSAH206_01395_SEQ_02,使用<hex:022811FF0A>EventItem<hex:F61E89700103>封住了<hex:02280CFF05>EObj<hex:F61E936D0103>。向諾布養育場的荷烏報告。
 3,TEXT_BANSAH206_01395_SEQ_03,向荷烏報告了完成產卵地的整頓一事。想到自己那群沉醉於爭鬥中的同族，荷烏很希望他們也能回想起自己的本職應是保護產卵地。以人類和魚人的共存為目標，今後也幫助他們整頓產卵地。
